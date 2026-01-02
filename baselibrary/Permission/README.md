@@ -11,6 +11,23 @@ A simplified Android Permission Management library that handles both normal and 
 
 ---
 
+## Prerequisites
+
+Add the required permissions to your `AndroidManifest.xml`:
+
+```xml
+<manifest ...>
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW"/>
+    <uses-permission android:name="android.permission.CAMERA"/>
+    <uses-permission android:name="android.permission.POST_NOTIFICATIONS"/>
+    <uses-permission android:name="android.permission.READ_MEDIA_IMAGES"/>
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_CAMERA"/>
+    <!-- Add others as needed for your use case -->
+</manifest>
+```
+
+---
+
 ## Method Documentation
 
 ### 1. `PermissionManager(ComponentActivity activity, PermissionCallback callback)`
