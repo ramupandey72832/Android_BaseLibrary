@@ -11,3 +11,5 @@ Prompts : <br>
 
 <br>
 - Demonstrate how to wire UI events to the SchedulerWrapper methods.
+<br>
+-- Make the MainAcitivty Fresh and clean
