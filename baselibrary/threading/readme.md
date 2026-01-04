@@ -1,3 +1,5 @@
+```xml
+
 +---------------------------------------------------+
 |                  WorkManager                      |
 |  High-level API for guaranteed background jobs    |
@@ -31,3 +33,4 @@
 |  - Runs actual code instructions                  |
 |  - Managed by OS                                  |
 +---------------------------------------------------+
+```
