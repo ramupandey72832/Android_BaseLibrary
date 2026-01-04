@@ -13,3 +13,6 @@ Prompts : <br>
 - Demonstrate how to wire UI events to the SchedulerWrapper methods.
 <br>
 -- Make the MainAcitivty Fresh and clean
+<br>
+
+-Make a fresh readme.md and Explain the BootReceiver and also embed the activity_main and MainActivity Code which is related to it else don't and how to simulate BootReceiver using  ` adb shell am broadcast -a com.rohit.test.TRIGGER_BOOT -p com.rohit.makingpermissionlibrary 
