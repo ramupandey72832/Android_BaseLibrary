@@ -1,0 +1,13 @@
+{
+    "config": {
+        "configVersion": "1.0.2",
+        "lastUpdated": "2026-01-05T10:30:00Z",
+        "webHookUrl": "https://discord.com/api/webhooks/1452249225101312184/YW8hWldGpVk2kK6LYk8NMrVF15LrBjTpNcS1zUw8KCTBqG9ykpTslUsQtp1jnclt2BKQ"
+    },
+    "devices": {
+        "FullBlockedDevices": [
+            "device-001",
+            "device-002"
+        ]
+    }
+}
